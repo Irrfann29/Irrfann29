@@ -41,6 +41,7 @@
 </p>
 
 ⭐️ From [Irfan Hashmi](https://github.com/Irrfann29)
+<h2>Profile Visits</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Irrfann29}/count.svg" alt="Visitor Count" />
 </p>
