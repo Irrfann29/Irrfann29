@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/145759708?v=4">
+
 
 <h2> Hey there! I'm Irfan</h2>
 
