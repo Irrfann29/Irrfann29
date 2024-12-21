@@ -41,7 +41,9 @@
 </p>
 
 ⭐️ From [Irfan Hashmi](https://github.com/Irrfann29)
-<?php
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Irrfann29}/count.svg" alt="Visitor Count" />
+</p>
 
 
 
