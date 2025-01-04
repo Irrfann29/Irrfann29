@@ -19,7 +19,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind]https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=GSAP)
 - 🛢 &nbsp;
