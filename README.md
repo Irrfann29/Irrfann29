@@ -21,7 +21,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=GSAP)
+  ![GSAP](https://greensock.com/uploads/monthly_2020_11/gsap-logo.svg.6ed95f40ccdc13b15903aa27809bfe5c.svg)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
