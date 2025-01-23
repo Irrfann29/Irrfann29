@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 🌱 &nbsp; Learning more about Web development,Artificial Intelligence and Machine Learning.
+- 🌱 &nbsp; Learning more about Web development, Artificial Intelligence and Machine Learning.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
