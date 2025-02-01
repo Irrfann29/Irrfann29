@@ -19,9 +19,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=1572B6)
-  ![Django](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=1572B6)
-
-  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GSAP](https://img.shields.io/badge/GSAP-333333?style=flat&logo=greensock&logoColor=white)
 - 🛢 &nbsp;
