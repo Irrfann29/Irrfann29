@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/irfan-hashmi-86696925b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Irfan%20Hashmi-blue?style=flat-square&logo=linkedin"></a>
   <a href="mrirfanhashmi2303@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrirfanhashmi2303@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irrfann29)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irrfann29)](https://github.com/Irrfann29)
 
 ⭐️ From [Irfan Hashmi](https://github.com/Irrfann29)
 <h2>Profile Visits</h2>
