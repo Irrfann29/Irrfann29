@@ -41,6 +41,8 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irrfann29&layout=pie)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irrfann29)]
+
 ⭐️ From [Irfan Hashmi](https://github.com/Irrfann29)
 <h2>Profile Visits</h2>
 <p align="center">
