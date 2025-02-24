@@ -40,7 +40,7 @@
   <a href="mrirfanhashmi2303@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrirfanhashmi2303@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irrfann29&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irrfann29&layout=pie&theme=vision-friendly-dark)
 ![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irrfann29)
 
 ⭐️ From [Irfan Hashmi](https://github.com/Irrfann29)
