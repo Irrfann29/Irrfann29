@@ -41,7 +41,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irrfann29&layout=pie&theme=vision-friendly-dark)
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irrfann29)
+![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irrfann29&theme=vision-friendly-dark)
 
 ⭐️ From [Irfan Hashmi](https://github.com/Irrfann29)
 <h2>Profile Visits</h2>
