@@ -21,6 +21,8 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GSAP](https://img.shields.io/badge/GSAP-333333?style=flat&logo=greensock&logoColor=white)
+  ![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAzMCAzMCIgd2lkdGg9IjI0cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTUiIGN5PSIxNSIgcj0iMTQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIi8+PGxpbmUgeDE9IjE1IiB5MT0iNSIgeDI9IjE1IiB5Mj0iMjUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48bGluZSB4MT0iNSIgeTE9IjE1IiB4Mj0iMjUiIHkyPSIxNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPjwvc3ZnPg==&labelColor=0d1117)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
