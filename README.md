@@ -21,7 +21,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GSAP](https://img.shields.io/badge/GSAP-333333?style=flat&logo=greensock&logoColor=white)
-  ![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-333333?style=flat&logo=next.js&logoColor=white)
+  ![Locomotive JS](https://img.shields.io/badge/Locomotive_JS-333333?style=flat&logo=next.js&logoColor=white)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
